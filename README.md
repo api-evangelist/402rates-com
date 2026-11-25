@@ -80,6 +80,12 @@ Everything profiled for 402rates-com is published on APIs.io rather than in this
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [402rates-com-mcp.yml](https://apis.io/servers/402rates-com/402rates-com-mcp-yml/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
@@ -90,26 +96,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [402Rates Com Authentication](https://apis.io/security/402rates-com/402rates-com-authentication/)
-- [402Rates Com Domain Security](https://apis.io/security/402rates-com/402rates-com-domain-security/)
+- [402rates-com Authentication](https://apis.io/security/402rates-com/402rates-com-authentication/)
+- [402rates-com Domain Security](https://apis.io/security/402rates-com/402rates-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [402Rates Com Scopes](https://apis.io/scopes/402rates-com/402rates-com-scopes/)
+- [402rates-com Scopes](https://apis.io/scopes/402rates-com/402rates-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [402Rates Com Plans Pricing](https://apis.io/plans/402rates-com/402rates-com-plans-pricing/)
+- [402rates-com Plans Pricing](https://apis.io/plans/402rates-com/402rates-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [402Rates Com Rate Limits](https://apis.io/rate-limits/402rates-com/402rates-com-rate-limits/)
+- [402rates-com Rate Limits](https://apis.io/rate-limits/402rates-com/402rates-com-rate-limits/)
 
 ## Where to find this API
 
@@ -124,18 +130,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 29.2** — thin · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 23.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 75.0 |
 | Contract quality | 0.0 |
-| Contract governance | 70.9 |
+| Contract governance | 19.7 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 39.8 |
-| Access clarity | 21.1 |
+| Access clarity | 27.7 |
 
-**Agent readiness 9.6** — agent-aware
+**Agent readiness 9.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -160,8 +166,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 22.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/402rates-com/](https://apis.io/providers/402rates-com/).
 
